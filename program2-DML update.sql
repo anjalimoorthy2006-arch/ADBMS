@@ -1,1 +1,1 @@
-update student set address='Gingee' where sid==005;
+update student set address='Gingeee' where sid==005;
